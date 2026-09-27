@@ -1,0 +1,4 @@
+github.com/hanwen/usb v0.0.0-20141217151552-69aee4530ac7 h1:fJ8PRDCj5Fa3oEwweff/QaCGUYjLjGUmCgeOUT+JkJM=
+github.com/hanwen/usb v0.0.0-20141217151552-69aee4530ac7/go.mod h1:yF/X+HyjXB5nFLDk2wr03cx0BRaFJ7iaAPFGRaKnwEk=
+golang.org/x/net v0.59.0 h1:5zfYln+w5XCxwrnMMJPufRgNoXEaGxl0wo5GqPXyues=
+golang.org/x/net v0.59.0/go.mod h1:2DA/G1UfVbCpQPeWTmMPGY7Cs2PkBkwu743bVX5PIVg=
