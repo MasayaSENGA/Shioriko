@@ -126,4 +126,6 @@ shioriko-probe -read      # ファイルを1つ読み込んで速度も計測
 
 ## ライセンス
 
+Shioriko のソースコードは MIT License です。詳しくは [`LICENSE`](LICENSE) を参照してください。
+
 同梱している `internal/mtp` パッケージは、元の `go-mtpfs` プロジェクトのNew BSDライセンスに従います。詳しくは `internal/mtp/LICENSE` を参照してください。`Shioriko.app` に同梱している `libusb` は LGPL-2.1 で、ライセンス文はアプリ内の `Contents/Resources/libusb-COPYING.txt` にあります（`Contents/Frameworks/libusb-1.0.0.dylib` を差し替えて使うこともできます）。
